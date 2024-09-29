@@ -1,0 +1,27 @@
+
+****Realizar un scaffolding del script asignado***
+
+Construir una API con los siguientes endpoints:
+
+BACKEND:
+*Hacer un postPrendas para sumar prendas a la DB
+	(es necesario realizar el endpoint de getallMarcas)
+
+*Hacer un getallPrendas de todas las prendas disponibles en la DB
+
+*Hacer un endpoint para devolver una prenda segun un id pasado por parametro(getPrendasById)
+
+FRONTEND:
+
+//Las tres paginas deben contar con un navbar para navegar entre las mismas
+
+Pagina 1:
+Hacer una pagina para dar de alta Prendas, se les debe cargar una marca en un select. 
+Opcional: Debemos verificar que no exista dicha prenda en el mismo color
+
+Pagina 2:
+Hacer una pagina con una tabla que tenga cargada los datos de las prendas existentes
+Extra: Las que sean de marca nike deben ademas en la columna Importado indicar con un boton que diga: EEUU
+
+Pagina 3:
+Hacer una pagina para obtener segun un id pasado por parametro, la prenda que queramos. Debe ser mostrada en una tabla con los datos correspondientes

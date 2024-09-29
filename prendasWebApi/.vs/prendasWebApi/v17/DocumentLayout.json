@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\RECUPERATORIO\\COMPLETAR\\EnunciadoRecuperatorio\\prendasWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF17E02-00E4-4E63-AB3B-97A81135403A}|prendasWebApi.csproj|e:\\users\\usuario\\desktop\\prog\\visualstudio(hacer repositorio)\\recuperatorio\\completar\\enunciadorecuperatorio\\prendaswebapi\\repositories\\prendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF17E02-00E4-4E63-AB3B-97A81135403A}|prendasWebApi.csproj|solutionrelative:repositories\\prendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF17E02-00E4-4E63-AB3B-97A81135403A}|prendasWebApi.csproj|e:\\users\\usuario\\desktop\\prog\\visualstudio(hacer repositorio)\\recuperatorio\\completar\\enunciadorecuperatorio\\prendaswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF17E02-00E4-4E63-AB3B-97A81135403A}|prendasWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\RECUPERATORIO\\COMPLETAR\\EnunciadoRecuperatorio\\prendasWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\RECUPERATORIO\\COMPLETAR\\EnunciadoRecuperatorio\\prendasWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:58:36.661Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrendaRepository.cs",
+              "DocumentMoniker": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\RECUPERATORIO\\COMPLETAR\\EnunciadoRecuperatorio\\prendasWebApi\\Repositories\\PrendaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PrendaRepository.cs",
+              "ToolTip": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\RECUPERATORIO\\COMPLETAR\\EnunciadoRecuperatorio\\prendasWebApi\\Repositories\\PrendaRepository.cs",
+              "RelativeToolTip": "Repositories\\PrendaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:32:21.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
